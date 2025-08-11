@@ -1,5 +1,5 @@
 <template>
-  <div class="flex gap-2 max-w-md mx-auto mt-6 ">
+  <div class="flex gap-2 max-w-xl mx-auto mt-6 ">
     <input
       v-model="newTodo"
       type="text"
